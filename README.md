@@ -1,0 +1,1 @@
+# btcpay_setup_instructions
