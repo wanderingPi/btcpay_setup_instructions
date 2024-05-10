@@ -27,7 +27,7 @@ export BTCPAY_ENABLE_SSH=true
 ```
 # Install btcpay server
 ```
-./btcpay-setup.sh -i
+. ./btcpay-setup.sh -i
 ```
 This will setup everything automatically,and at the end you will be able to create an account to manage the store
 
